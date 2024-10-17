@@ -2,7 +2,7 @@ Name: icon-theme-Suru
 Summary: The Suru icon theme
 Version: 2020.01.19
 Release: 4
-Url: http://snwh.org/
+Url: https://snwh.org/
 Source0: https://github.com/snwh/suru-icon-theme/archive/master/suru-%{version}.tar.gz
 Source1: https://github.com/Bonandry/suru-plus-ubuntu/archive/master/suru-plus-%{version}.tar.gz
 # https://store.kde.org/p/1331950/
